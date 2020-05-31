@@ -2,7 +2,7 @@
 
 A few examples of how pyzabbix can make your life much easier.
 
-Note: there's no exception handling in the scripts as they were mainly built for education purposes.
+Note: there's no exception handling in the scripts as they were mainly built for educational purposes.
 
 ## maps_forgotten_elements.py
 
